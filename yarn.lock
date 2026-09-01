@@ -526,10 +526,10 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-16.3.1.tgz#2a8fccd6ae2691321ce5dbb3b4f21cf1f50680c3"
   integrity sha512-35G3xwkQUb2oETSDjFXGrVugknoayLFBh7vSE+yAcl9IP2zT9wyGwq7297AYHR11kJld807t5f8AJBs6WBzXsQ==
 
-"@next/eslint-plugin-next@16.3.1":
-  version "16.3.1"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.3.1.tgz#a239a98b403fa8629f3617554206ed87c37e8fed"
-  integrity sha512-B4SznlXwVpaLDa7Tbi6zLuueria2d/PmFDhXyDymPGrk2r1n/RMJmcn5FZq1L64k+Jsyte1lKvOr7lP9Xo80mQ==
+"@next/eslint-plugin-next@16.3.3":
+  version "16.3.3"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.3.3.tgz#89c4057cf248687284e4db6f343e66296e8457a5"
+  integrity sha512-pbEh30vvjKpDoTAmo1v3q2uM4JUi8QaEBpbmjWvGfoec2jLghy/WNtvzAT0bk+Ik9oz6etjt4YjXEk4BQnicCw==
   dependencies:
     "@eslint-community/eslint-utils" "4.9.1"
     fast-glob "3.3.1"
@@ -788,10 +788,10 @@
   resolved "https://registry.npmjs.org/@types/ms/-/ms-2.1.0.tgz"
   integrity sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==
 
-"@types/node@^26.2.0":
-  version "26.2.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.2.0.tgz#5a4875a862fda8fdc57de8faa579bb81ecba1685"
-  integrity sha512-5IviulTZeRNp2vAJ514cc/HUlY5nZ9fCbq9DMyC52BrhFZACo3nI0R7qBxhQmo/d27NFe96ur/b7Wwxklda+kg==
+"@types/node@^26.4.0":
+  version "26.4.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.4.0.tgz#4c4ca071c42241fe602741d02999f16b4e64c468"
+  integrity sha512-faiGnoIrLH/V8cibOMEAZ8pMw6oXqSukl29ra4mN8GdaB2ZewzeaLj+INpV5N+Z1eKWzY+IzaIZH2EIR6YZRNQ==
   dependencies:
     undici-types "~8.3.0"
 
@@ -800,10 +800,10 @@
   resolved "https://registry.npmjs.org/@types/prismjs/-/prismjs-1.26.6.tgz"
   integrity sha512-vqlvI7qlMvcCBbVe0AKAb4f97//Hy0EBTaiW8AalRnG/xAN5zOiWWyrNqNXeq8+KAuvRewjCVY1+IPxk4RdNYw==
 
-"@types/react-dom@^19.2.4":
-  version "19.2.4"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-19.2.4.tgz#165ab5e97dfb081847b0f6755060cf40a3f6666b"
-  integrity sha512-Bsc+QHgp+P/F02XDzNCY9jnZNCUuLki36KT7VKrTXXLdHf+vHMNZnW1rVu5DNW/rCK+fya3DATySbLM4yhtKUw==
+"@types/react-dom@^19.2.5":
+  version "19.2.5"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-19.2.5.tgz#d4ecf8d704cab59901d3fbb0975b6f855306595f"
+  integrity sha512-fMPwH9v7r/pp43yUd2/Mbiex5KouJwwR3dzHkhLREUC6764VyDsqxhAxv6OFEYR1RhjOyD1naqba8ECDBe7ZQg==
 
 "@types/react-syntax-highlighter@^15.5.13":
   version "15.5.13"
@@ -1693,12 +1693,12 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-next@^16.3.0:
-  version "16.3.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.3.1.tgz#fa2e03faf25990a29b483c9c4cb057725148c7a1"
-  integrity sha512-0vtrpwFVHFEkycUgV/DyrG29OS+HSRdah5Yu8YuZoiBMtlAT6NIiWzaLwDkJZxr2kGfx+9LIvfQ7KHAlEs0VsA==
+eslint-config-next@^16.3.3:
+  version "16.3.3"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.3.3.tgz#bc1d635194f4d81ef4ef9338547b20a432022e2b"
+  integrity sha512-teqtsR26tnlfXFHfVLTM/4tzEzU8DMu6GS1sddZzhfGzgd2f2ofbgDUcsk6cssSCzX6Tk6fmWifJcdANSdPJrw==
   dependencies:
-    "@next/eslint-plugin-next" "16.3.1"
+    "@next/eslint-plugin-next" "16.3.3"
     eslint-import-resolver-node "^0.3.6"
     eslint-import-resolver-typescript "^3.5.2"
     eslint-plugin-import "^2.32.0"
